@@ -1,0 +1,42 @@
+{
+  "allVideos": [
+    {
+      "caption": "The Life of Ram",
+      "imageURL": "https://s3.ap-south-1.amazonaws.com/naadanchords-images/public/the-life-of-ram-96.jpg",
+      "embedeLink": "https://www.youtube.com/embed/6LD30ChPsSs",
+      "id": 1
+    },
+    {
+      "caption": " Pookkal Pookkum",
+      "imageURL": "https://c.saavncdn.com/960/Madharasapattinam-Tamil-2010-20200627073521-500x500.jpg",
+      "embedeLink": "https://www.youtube.com/embed/nWxGhq_lBII",
+      "id": 2
+    },
+    {
+      "caption": "JAILER - Hukum",
+      "imageURL": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202307/748680-hukum-three_four.jpg?VersionId=helyHPHWgAM4XV_cixrp4PqAnBiz21HM",
+      "embedeLink": "https://www.youtube.com/embed/1F3hm6MfR1k",
+      "id": 3
+    }
+  ],
+  "category": [
+    {
+      "categoryName": "song",
+      "allVideos": [],
+      "id": 1
+    },
+    {
+      "categoryName": "new",
+      "allVideos": [],
+      "id": 2
+    }
+  ],
+  "history": [
+    {
+      "caption": "JAILER - Hukum",
+      "url": "https://www.youtube.com/embed/1F3hm6MfR1k",
+      "timeStamp": "16/07/2024, 22:43:22",
+      "id": 1
+    }
+  ]
+}
